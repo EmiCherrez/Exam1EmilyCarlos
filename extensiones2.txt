@@ -1,0 +1,15 @@
+     32 txt
+     24 sample
+     18 png
+     15 gz
+     10 csv
+      8 pdf
+      6 tsv
+      4 sh
+      3 fastq
+      3 bam
+      3 bai
+      2 sam
+      2 md
+      1 pack
+      1 idx
