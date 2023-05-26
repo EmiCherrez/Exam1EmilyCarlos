@@ -1,0 +1,102 @@
+     70 
+      1 k__Eukaryota	0.0	0.0	0.0	0.0	0.0	0.00344	0.0	0.0	0.02066	0.00488
+      1 k__Viruses	64.17306	0.0	23.68306	0.0	0.12457	0.0	0.0	0.0	0.0	0.0
+      1 s__Actinomyces_urogenitalis
+      1 s__Actinomyces_urogenitalis	0.0	0.0	0.0	59.91636	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Bifidobacterium_longum
+      1 s__Bifidobacterium_longum	0.0	0.0	0.0	0.0	0.0	0.77104	0.0	3.45494	64.10423	9.59061
+      1 s__Citrobacter_freundii
+      1 s__Citrobacter_freundii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.10179	0.0	0.0
+      1 s__Citrobacter_unclassified	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.05568	0.0	0.0
+      1 s__Clostridium_butyricum
+      1 s__Clostridium_butyricum	0.0	0.0	0.0	0.0	0.0	0.0	7.15781	0.0	0.0	0.0
+      1 s__Clostridium_perfringens
+      1 s__Clostridium_perfringens	0.19097	0.0	0.0	0.0	0.59649	0.0	0.0	0.07042	0.0	0.0
+      1 s__Corynebacterium_kroppenstedtii
+      1 s__Corynebacterium_kroppenstedtii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00534
+      1 s__Enterobacter_aerogenes
+      1 s__Enterobacter_aerogenes	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.69521
+      1 s__Enterobacter_cloacae
+      1 s__Enterobacter_cloacae	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0096	0.09545	0.008
+      1 s__Enterococcus_faecalis
+      1 s__Enterococcus_faecalis	5.2995	0.04281	0.0	0.27999	0.0	0.01812	0.0	0.00647	12.7979	0.22157
+      1 s__Enterococcus_faecium
+      1 s__Enterococcus_faecium	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.60738	0.0
+      1 s__Enterococcus_phage_EFAP_1
+      1 s__Enterococcus_phage_EFAP_1	64.17306	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Escherichia_coli
+      1 s__Escherichia_coli	17.53307	17.4672	0.0	0.0	65.28291	0.00966	0.0	43.60872	0.26505	59.80481
+      1 s__Escherichia_unclassified	11.12392	12.21634	0.0	0.00991	32.26416	0.00899	0.0	36.65042	0.09476	27.54713
+      1 s__Finegoldia_magna
+      1 s__Finegoldia_magna	0.0	0.05169	0.0	0.0	0.0	0.0	0.14006	0.0	0.0	0.0
+      1 s__Fusarium_unclassified	0.0	0.0	0.0	0.0	0.0	0.00344	0.0	0.0	0.01376	0.00401
+      1 s__Gemella_unclassified	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00125
+      1 s__Haemophilus_parainfluenzae
+      1 s__Haemophilus_parainfluenzae	0.0	0.0	0.0	0.36237	0.0	0.0	0.0	0.0	17.97178	0.10435
+      1 s__Klebsiella_oxytoca
+      1 s__Klebsiella_oxytoca	0.0	14.01328	18.60859	0.0	0.0	7.44233	0.0	0.0	0.04553	0.0
+      1 s__Klebsiella_pneumoniae
+      1 s__Klebsiella_pneumoniae	0.0	0.0	0.0	0.01445	0.0	0.0	91.16967	0.0	0.04964	0.50954
+      1 s__Klebsiella_unclassified	0.0	4.87433	4.20053	0.00049	0.0	6.11149	0.0	0.0	0.02249	0.0
+      1 s__Lactobacillus_fermentum
+      1 s__Lactobacillus_fermentum	0.0	0.0	0.0	0.0	0.0	0.023	0.0	0.0	0.0	0.0
+      1 s__Lactobacillus_gasseri
+      1 s__Lactobacillus_gasseri	0.0	0.0	0.0	0.0	0.0	0.14695	0.0	0.0	0.0	0.0
+      1 s__Listeria_monocytogenes
+      1 s__Listeria_monocytogenes	0.0	0.0	0.0	0.0	0.00297	0.0	0.0	0.0	0.0	0.0
+      1 s__Neisseria_flavescens
+      1 s__Neisseria_flavescens	0.0	0.0	0.0	0.04424	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Neisseria_meningitidis
+      1 s__Neisseria_meningitidis	0.0	0.0	0.0	0.00763	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Neisseria_subflava
+      1 s__Neisseria_subflava	0.0	0.0	0.0	0.02029	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Neisseria_unclassified	0.0	0.0	0.0	0.08681	0.0	0.0	0.0	0.0	0.0	0.02066
+      1 s__Propionibacterium_acnes
+      1 s__Propionibacterium_acnes	0.0	0.0	33.63343	0.0	0.0	0.009	0.0	0.0	0.03559	0.0
+      1 s__Propionibacterium_avidum
+      1 s__Propionibacterium_avidum	0.10136	0.11705	0.0	0.0	0.0	0.0	0.5636	0.0	0.0	0.0
+      1 s__Propionibacterium_granulosum
+      1 s__Propionibacterium_granulosum	0.0	0.06954	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Propionibacterium_phage_P100D
+      1 s__Propionibacterium_phage_P100D	0.0	0.0	2.59946	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Propionibacterium_phage_P101A
+      1 s__Propionibacterium_phage_P101A	0.0	0.0	18.4051	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Propionibacterium_phage_P1_1
+      1 s__Propionibacterium_phage_P1_1	0.0	0.0	0.0	0.0	0.12457	0.0	0.0	0.0	0.0	0.0
+      1 s__Propionibacterium_phage_PHL112N00
+      1 s__Propionibacterium_phage_PHL112N00	0.0	0.0	2.6785	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+      1 s__Proteus_mirabilis
+      1 s__Proteus_mirabilis	0.0	0.0	0.0	0.0	0.0	14.56071	0.0	0.0	0.0	0.0
+      1 s__Proteus_unclassified	0.0	0.0	0.0	0.0	0.0	2.36871	0.0	0.0	0.0	0.0
+      1 s__Rothia_mucilaginosa
+      1 s__Rothia_mucilaginosa	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.48268
+      1 s__Staphylococcus_aureus
+      1 s__Staphylococcus_aureus	0.01647	0.09147	0.0	0.0	0.0	0.0	0.0	0.0	2.4682	0.0
+      1 s__Staphylococcus_epidermidis
+      1 s__Staphylococcus_epidermidis	0.00913	0.03581	14.77232	0.01557	1.51708	0.04826	0.48219	0.04901	0.69177	0.24174
+      1 s__Staphylococcus_hominis
+      1 s__Staphylococcus_hominis	0.0	0.0	0.0	0.0	0.0071	0.0	0.0	0.0	0.01853	0.13857
+      1 s__Staphylococcus_lugdunensis
+      1 s__Staphylococcus_lugdunensis	0.0	0.0	0.0	0.00299	0.0	0.10386	0.0	0.0	0.0	0.0
+      1 s__Streptococcus_agalactiae
+      1 s__Streptococcus_agalactiae	0.0	0.0	0.0	0.0	0.0	0.35518	0.4699	0.0	0.0	0.0
+      1 s__Streptococcus_lutetiensis
+      1 s__Streptococcus_lutetiensis	0.0	0.61376	0.0	0.0	0.0	0.0	0.0	0.0	0.2889	0.0
+      1 s__Streptococcus_mitis_oralis_pneumoniae
+      1 s__Streptococcus_mitis_oralis_pneumoniae	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0008	0.27233	0.0375
+      1 s__Streptococcus_parasanguinis
+      1 s__Streptococcus_parasanguinis	0.0	0.0	0.0	0.0	0.19301	1.52869	0.01676	0.00061	0.0	0.54656
+      1 s__Streptococcus_salivarius
+      1 s__Streptococcus_salivarius	0.0	0.0	0.0	0.0	0.01169	0.0021	0.0	0.0	0.0	0.0
+      1 s__Streptococcus_tigurinus
+      1 s__Streptococcus_tigurinus	0.0	0.0	0.0	0.0	0.0	0.00098	0.0	0.0	0.0	0.0
+      1 s__Thiomonas_unclassified	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01017	0.0
+      1 s__Veillonella_atypica
+      1 s__Veillonella_atypica	0.0	0.0	0.0	0.0	0.0	0.7066	0.0	4.50303	0.01669	0.0
+      1 s__Veillonella_dispar
+      1 s__Veillonella_dispar	0.0	4.25437	0.0	0.0	0.0	10.26543	0.0	0.02475	0.0	0.0
+      1 s__Veillonella_parvula
+      1 s__Veillonella_parvula	0.0	19.03654	0.0	30.03326	0.0	2.50538	0.0	0.12975	0.08725	0.02588
+      1 s__Veillonella_ratti
+      1 s__Veillonella_ratti	0.0	0.0	0.00058	0.0	0.0	0.0	0.0	0.97918	0.0	0.0
+      1 s__Veillonella_unclassified	0.0	27.11582	0.0	9.20562	0.0	52.95006	0.0	10.35483	0.03568	0.01373
