@@ -1,0 +1,107 @@
+LOCUS       NR_103286                116 bp    rRNA    linear   BCT 02-FEB-2015
+DEFINITION  Bacillus subtilis subsp. subtilis str. 168 strain 168 5S ribosomal
+            RNA, complete sequence.
+ACCESSION   NR_103286
+VERSION     NR_103286.1
+DBLINK      Project: 188106
+            BioProject: PRJNA188106
+KEYWORDS    RefSeq.
+SOURCE      Bacillus subtilis subsp. subtilis str. 168
+  ORGANISM  Bacillus subtilis subsp. subtilis str. 168
+            Bacteria; Bacillota; Bacilli; Bacillales; Bacillaceae; Bacillus.
+REFERENCE   1  (bases 1 to 116)
+  AUTHORS   Barbe,V., Cruveiller,S., Kunst,F., Lenoble,P., Meurice,G.,
+            Sekowska,A., Vallenet,D., Wang,T., Moszer,I., Medigue,C. and
+            Danchin,A.
+  TITLE     From a consortium sequence to a unified sequence: the Bacillus
+            subtilis 168 reference genome a decade later
+  JOURNAL   Microbiology (Reading, Engl.) 155 (PT 6), 1758-1775 (2009)
+   PUBMED   19383706
+REFERENCE   2  (bases 1 to 116)
+  AUTHORS   Kunst,F., Ogasawara,N., Moszer,I., Albertini,A.M., Alloni,G.,
+            Azevedo,V., Bertero,M.G., Bessieres,P., Bolotin,A., Borchert,S.,
+            Borriss,R., Boursier,L., Brans,A., Braun,M., Brignell,S.C.,
+            Bron,S., Brouillet,S., Bruschi,C.V., Caldwell,B., Capuano,V.,
+            Carter,N.M., Choi,S.K., Codani,J.J., Connerton,I.F., Cummings,N.J.,
+            Daniel,R.A., Denizot,F., Devine,K.M., Dusterhoft,A., Ehrlich,S.D.,
+            Emmerson,P.T., Entian,K.D., Errington,J., Fabret,C., Ferrari,E.,
+            Foulger,D., Fritz,C., Fujita,M., Fujita,Y., Fuma,S., Galizzi,A.,
+            Galleron,N., Ghim,S.Y., Glaser,P., Goffeau,A., Golightly,E.J.,
+            Grandi,G., Guiseppi,G., Guy,B.J., Haga,K., Haiech,J., Harwood,C.R.,
+            Henaut,A., Hilbert,H., Holsappel,S., Hosono,S., Hullo,M.F.,
+            Itaya,M., Jones,L., Joris,B., Karamata,D., Kasahara,Y.,
+            Klaerr-Blanchard,M., Klein,C., Kobayashi,Y., Koetter,P.,
+            Koningstein,G., Krogh,S., Kumano,M., Kurita,K., Lapidus,A.,
+            Lardinois,S., Lauber,J., Lazarevic,V., Lee,S.M., Levine,A., Liu,H.,
+            Masuda,S., Mauel,C., Medigue,C., Medina,N., Mellado,R.P.,
+            Mizuno,M., Moestl,D., Nakai,S., Noback,M., Noone,D., O'Reilly,M.,
+            Ogawa,K., Ogiwara,A., Oudega,B., Park,S.H., Parro,V., Pohl,T.M.,
+            Portetelle,D., Porwollik,S., Prescott,A.M., Presecan,E., Pujic,P.,
+            Purnelle,B., Rapoport,G., Rey,M., Reynolds,S., Rieger,M.,
+            Rivolta,C., Rocha,E., Roche,B., Rose,M., Sadaie,Y., Sato,T.,
+            Scanlan,E., Schleich,S., Schroeter,R., Scoffone,F., Sekiguchi,J.,
+            Sekowska,A., Seror,S.J., Serror,P., Shin,B.S., Soldo,B.,
+            Sorokin,A., Tacconi,E., Takagi,T., Takahashi,H., Takemaru,K.,
+            Takeuchi,M., Tamakoshi,A., Tanaka,T., Terpstra,P., Tognoni,A.,
+            Tosato,V., Uchiyama,S., Vandenbol,M., Vannier,F., Vassarotti,A.,
+            Viari,A., Wambutt,R., Wedler,E., Wedler,H., Weitzenegger,T.,
+            Winters,P., Wipat,A., Yamamoto,H., Yamane,K., Yasumoto,K., Yata,K.,
+            Yoshida,K., Yoshikawa,H.F., Zumstein,E., Yoshikawa,H. and
+            Danchin,A.
+  TITLE     The complete genome sequence of the gram-positive bacterium
+            Bacillus subtilis
+  JOURNAL   Nature 390 (6657), 249-256 (1997)
+   PUBMED   9384377
+REFERENCE   3  (bases 1 to 116)
+  AUTHORS   Belda,E., Sekowska,A., Le Fevre,F., Mornico,D., Morgat,A.,
+            Ouzounis,C., Vallenet,D., Medigue,C. and Danchin,A.
+  TITLE     An updated metabolic view of the Bacillus subtilis 168 genome
+  JOURNAL   Unpublished
+REFERENCE   4  (bases 1 to 116)
+  CONSRTM   NCBI RefSeq Targeted Loci Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2013) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   5  (bases 1 to 116)
+  AUTHORS   Genoscope -,C.E.A.
+  CONSRTM   AMAbiotics and Genoscope
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JAN-2013) A. Danchin, AMAbiotics, Bldg G1, 2, rue
+            Gaston Cremieux, 91000 EVRY antoine.danchin@normalesup.org Bldg G1
+            Genoscope / CEA (Commissariat a l'energie atomique et aux energies
+            alternatives): BP 191 91006 EVRY cedex - FRANCE (E-mail:
+            seqref@genoscope.cns.fr - Web: www.genoscope.cns.fr)
+REFERENCE   6  (bases 1 to 116)
+  AUTHORS   Genoscope -,C.E.A.
+  CONSRTM   Institut Pasteur and Genoscope
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JAN-2009) Genoscope - Centre National de Sequencage :
+            BP 191 91006 EVRY cedex - FRANCE (E-mail : seqref@genoscope.cns.fr
+            - Web : www.genoscope.cns.fr)
+REFERENCE   7  (bases 1 to 116)
+  AUTHORS   Kunst,F., Ogasawara,N., Yoshikawa,H. and Danchin,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-1997) I. Moszer, A. Danchin, Genetique des
+            Genomes Bacteriens, Institut Pasteur, 28 rue du Docteur Roux, 75724
+            Paris Cedex 15, FRANCE. E-mail: moszer@pasteur.fr,
+            antoine.danchin@normalesup.org Phone: +33 (0)1 45 68 84 41, Fax:
+            +33 (0)1 45 68 89 48
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to AL009126:951457-951572.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Bacillus subtilis subsp. subtilis str. 168"
+                     /mol_type="rRNA"
+                     /strain="168"
+                     /sub_species="subtilis"
+                     /type_material="type strain of Bacillus subtilis"
+                     /db_xref="taxon:224308"
+                     /note="type strain of Bacillus subtilis subsp. subtilis"
+     rRNA            1..116
+                     /product="5S ribosomal RNA"
+ORIGIN      
+        1 tctggtgatg atggcgaaga ggtcacaccc gttcccatgc cgaacacgga agttaagctc
+       61 ttcagcgccg atggtagtcg ggggtttccc cctgtgagag taggacatcg ccaggc
+//
+
